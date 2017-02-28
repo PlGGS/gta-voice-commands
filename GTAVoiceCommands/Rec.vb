@@ -1,5 +1,5 @@
 ﻿Imports GTA
-Imports System.Speech
+Imports Microsoft.Speech
 
 Public Class Rec
     Inherits Script

@@ -1,5 +1,5 @@
 ﻿Imports GTA
-Imports System.Speech
+Imports Microsoft.Speech
 Imports GTA.Native
 Imports System.Drawing
 Imports GTAVoiceCommands.Main

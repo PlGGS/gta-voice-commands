@@ -1,6 +1,6 @@
 ﻿Imports GTA
 Imports NativeUI
-Imports System.Speech
+Imports Microsoft.Speech
 Imports System.Windows.Forms
 Imports System.Drawing
 

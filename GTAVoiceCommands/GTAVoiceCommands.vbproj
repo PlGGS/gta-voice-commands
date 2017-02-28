@@ -43,17 +43,20 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
+    </Reference>
     <Reference Include="NativeUI">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Rockstar Games\Grand Theft Auto V - Mods\scripts\NativeUI.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Rockstar Games\Grand Theft Auto V - Mods\NativeUI.dll</HintPath>
     </Reference>
     <Reference Include="ScriptHookVDotNet">
-      <HintPath>..\..\ScriptHookVDotNet.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Rockstar Games\Grand Theft Auto V - Mods\ScriptHookVDotNet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
-    <Reference Include="System.Speech" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
